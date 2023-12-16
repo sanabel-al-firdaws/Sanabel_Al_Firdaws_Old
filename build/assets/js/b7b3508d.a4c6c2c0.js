@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksanabel_al_firdaws=self.webpackChunksanabel_al_firdaws||[]).push([[6054],{1297:a=>{a.exports=JSON.parse('{"label":"hello","permalink":"/Sanabel_Al_Firdaws/blog/tags/hello","allTagsPath":"/Sanabel_Al_Firdaws/blog/tags","count":2,"unlisted":false}')}}]);
