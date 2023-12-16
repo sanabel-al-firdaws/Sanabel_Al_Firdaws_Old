@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksanabel_al_firdaws=self.webpackChunksanabel_al_firdaws||[]).push([[6839],{9841:a=>{a.exports=JSON.parse('{"label":"docusaurus","permalink":"/Sanabel_Al_Firdaws/blog/tags/docusaurus","allTagsPath":"/Sanabel_Al_Firdaws/blog/tags","count":4,"unlisted":false}')}}]);
