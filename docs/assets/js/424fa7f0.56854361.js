@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunksanabel_al_firdaws=self.webpackChunksanabel_al_firdaws||[]).push([[4944],{6886:a=>{a.exports=JSON.parse('{"permalink":"/Sanabel_Al_Firdaws/blog/tags/facebook","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
