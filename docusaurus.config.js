@@ -158,8 +158,9 @@ const config = {
     ['@docusaurus-lunr-search',
       {
         languages: ['ar']
-      },
-      '@docusaurus/plugin-pwa',
+      }],
+
+    ['@docusaurus/plugin-pwa',
       {
         debug: true,
         offlineModeActivationStrategies: [
