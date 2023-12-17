@@ -13,6 +13,15 @@ const config = {
   tagline: 'منصة تهتم بجمع العلم النافع',
   favicon: 'img/favicon.ico',
 
+headTags: [
+    {
+      tagName: 'link',
+      attributes: {
+        rel: 'stylesheet',
+        href: 'https://cdn.jsdelivr.net/npm/@shoelace-style/shoelace@2.12.0/cdn/themes/light.css',
+      },
+    },
+  ],
   // Set the production url of your site here
   url: 'https://abdullhakim-sami.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
