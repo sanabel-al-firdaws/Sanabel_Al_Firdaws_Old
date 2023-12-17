@@ -47,6 +47,7 @@ const config = {
           //   editUrl:
           //     'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
           // },
+          editUrl: 'https://github.com/abdullhakim-sami/Sanabel_Al_Firdaws/tree/master/'
         },
         blog: {
           showReadingTime: true,
