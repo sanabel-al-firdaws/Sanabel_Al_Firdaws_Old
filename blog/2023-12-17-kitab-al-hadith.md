@@ -1,15 +1,15 @@
 ---
 slug: first-blog-post
-title: First Blog Post
+title: كتاب الحديث
 authors:
-  name: Gao Wei
-  title: Docusaurus Core Team
-  url: https://github.com/wgao19
-  image_url: https://github.com/wgao19.png
+  name: عبدالحكيم الشنقيطي
+  title: طالب علم
+  url: https://github.com/abdullhakim-sami
+  image_url: https://github.com/abdullhakim-sami.png
 tags: [hadiths]
 ---
 
 كتاب الحديث
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM5NzI1NjddfQ==
+eyJoaXN0b3J5IjpbNjc0MTk2NTU3LC0zOTcyNTY3XX0=
 -->
