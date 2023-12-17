@@ -6,7 +6,7 @@ authors:
   title: طالب علم
   url: https://github.com/abdullhakim-sami
   image_url: https://github.com/abdullhakim-sami.png
-tags: [hadiths]
+tags: [حدي]
 ---
 
 نكتب هنا الأحاديث 
@@ -16,7 +16,7 @@ tags: [hadiths]
 قال رسول الله ﷺ : 
 أَيَعْجِزُ أحَدُكُمْ أنْ يَقْرَأَ في لَيْلَةٍ ثُلُثَ القُرْآنِ؟ قالوا: وكيفَ يَقْرَأْ ثُلُثَ القُرْآنِ؟ قالَ: ﴿قُلْ هُوَ اللَّهُ أَحَدٌ﴾ تَعْدِلُ ثُلُثَ القُرْآنِ
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgwOTg5NDQ5MCwxNDE1MDQ2Mzk4LC0xMz
-UyNTY1NjA0LDIxNDUzNjcwMTQsLTkxNDcwMTAyMSwtMzk3MjU2
-N119
+eyJoaXN0b3J5IjpbLTE2MzIzNDM0OSwxODA5ODk0NDkwLDE0MT
+UwNDYzOTgsLTEzNTI1NjU2MDQsMjE0NTM2NzAxNCwtOTE0NzAx
+MDIxLC0zOTcyNTY3XX0=
 -->
