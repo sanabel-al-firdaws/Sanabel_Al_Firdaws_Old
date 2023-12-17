@@ -1,5 +1,5 @@
 ---
-slug: first-blog-post
+slug: كتاب الحديث
 title: كتاب الحديث
 authors:
   name: عبدالحكيم الشنقيطي
@@ -11,5 +11,5 @@ tags: [hadiths]
 
 كتاب الحديث
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjc0MTk2NTU3LC0zOTcyNTY3XX0=
+eyJoaXN0b3J5IjpbLTkxNDcwMTAyMSwtMzk3MjU2N119
 -->
