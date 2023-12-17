@@ -13,12 +13,19 @@ const config = {
   tagline: 'منصة تهتم بجمع العلم النافع',
   favicon: 'img/favicon.ico',
 
-headTags: [
+  headTags: [
     {
       tagName: 'link',
       attributes: {
         rel: 'stylesheet',
         href: 'https://cdn.jsdelivr.net/npm/@shoelace-style/shoelace@2.12.0/cdn/themes/light.css',
+      },
+    },
+    {
+      tagName: 'script',
+      attributes: {
+        type: "module",
+        src: "https://cdn.jsdelivr.net/npm/@shoelace-style/shoelace@2.12.0/cdn/shoelace-autoloader.js",
       },
     },
   ],
