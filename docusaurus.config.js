@@ -162,6 +162,7 @@ const config = {
       languages: ['ar'],
       highlightResult: true,
       disableVersioning: true,
+      maxHits: "20"
     }],
 
     ['@docusaurus/plugin-pwa',
