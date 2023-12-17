@@ -2,14 +2,8 @@
 slug: long-blog-post
 title: Long Blog Post
 authors: endi
-tags: [hello, docusaurus]
+tags: [hello, docusaurushadiths]
 ---
-
-
-export const Highlight = ({children, color}) => (
-  <span    style={{      backgroundColor: color,      borderRadius: '2px',      color: '#fff',      padding: '0.2rem',    }}>    {children}  </span>);
-<script
-<Highlight color="#25c2a0">Docusaurus green</Highlight> and <Highlight color="#1877F2">Facebook blue</Highlight> 
 
 This is the summary of a very long blog post,
 
@@ -49,6 +43,5 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum 
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNzk0NDc3MzAsLTE2MDAzODk0MDldfQ
-==
+eyJoaXN0b3J5IjpbMjQ0NzYwNDI3LC0xNjAwMzg5NDA5XX0=
 -->
