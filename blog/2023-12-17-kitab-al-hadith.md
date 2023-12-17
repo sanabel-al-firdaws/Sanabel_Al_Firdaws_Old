@@ -19,8 +19,12 @@ tags: [أحاديث]
 قال رسول الله ﷺ :
 أَيَعْجِزُ أحَدُكُمْ أنْ يَقْرَأَ في لَيْلَةٍ ثُلُثَ القُرْآنِ؟ قالوا: وكيفَ يَقْرَأْ ثُلُثَ القُرْآنِ؟ قالَ: ﴿قُلْ هُوَ اللَّهُ أَحَدٌ﴾ تَعْدِلُ ثُلُثَ القُرْآنِ
 
+
+
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY1MDA4ODQ3NCwtOTM5NDkzOTQ4LDE4MD
-k4OTQ0OTAsMTQxNTA0NjM5OCwtMTM1MjU2NTYwNCwyMTQ1MzY3
-MDE0LC05MTQ3MDEwMjEsLTM5NzI1NjddfQ==
+eyJoaXN0b3J5IjpbMTgxMjk4MTMwLC05Mzk0OTM5NDgsMTgwOT
+g5NDQ5MCwxNDE1MDQ2Mzk4LC0xMzUyNTY1NjA0LDIxNDUzNjcw
+MTQsLTkxNDcwMTAyMSwtMzk3MjU2N119
 -->
