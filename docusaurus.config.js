@@ -159,7 +159,9 @@ const config = {
     [require.resolve('docusaurus-lunr-search'),
     {
       // Options here
-      languages: ['ar']
+      languages: ['ar'],
+      highlightResult: true,
+      disableVersioning: true,
     }],
 
     ['@docusaurus/plugin-pwa',
