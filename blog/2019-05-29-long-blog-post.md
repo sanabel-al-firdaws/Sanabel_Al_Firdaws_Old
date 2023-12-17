@@ -5,10 +5,10 @@ authors: endi
 tags: [hello, docusaurus]
 ---
 
-<script>
+
 export const Highlight = ({children, color}) => (
   <span    style={{      backgroundColor: color,      borderRadius: '2px',      color: '#fff',      padding: '0.2rem',    }}>    {children}  </span>);
-<script/>
+<script
 <Highlight color="#25c2a0">Docusaurus green</Highlight> and <Highlight color="#1877F2">Facebook blue</Highlight> 
 
 This is the summary of a very long blog post,
@@ -49,5 +49,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum 
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTExMTY5MzI1NiwtMTYwMDM4OTQwOV19
+eyJoaXN0b3J5IjpbLTIwNzk0NDc3MzAsLTE2MDAzODk0MDldfQ
+==
 -->
