@@ -1,5 +1,5 @@
 ---
-slug: كتاب الحديث
+slug: kitab-al-hadith
 title: كتاب الحديث
 authors:
   - عبدالحكيم
