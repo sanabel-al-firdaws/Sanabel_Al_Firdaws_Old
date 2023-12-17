@@ -4,6 +4,11 @@ title: كتاب الحديث
 authors:
   - عبدالحكيم
   - عمار
+
+  name: عمار 
+  title: طالب علم
+  url: https://github.com/AmmarIsmail123
+  image_url: https://github.com/AmmarIsmail123.png
 tags: [أحاديث]
 ---
 
@@ -15,7 +20,7 @@ tags: [أحاديث]
 أَيَعْجِزُ أحَدُكُمْ أنْ يَقْرَأَ في لَيْلَةٍ ثُلُثَ القُرْآنِ؟ قالوا: وكيفَ يَقْرَأْ ثُلُثَ القُرْآنِ؟ قالَ: ﴿قُلْ هُوَ اللَّهُ أَحَدٌ﴾ تَعْدِلُ ثُلُثَ القُرْآنِ
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkzOTQ5Mzk0OCwxODA5ODk0NDkwLDE0MT
-UwNDYzOTgsLTEzNTI1NjU2MDQsMjE0NTM2NzAxNCwtOTE0NzAx
-MDIxLC0zOTcyNTY3XX0=
+eyJoaXN0b3J5IjpbMTY1MDA4ODQ3NCwtOTM5NDkzOTQ4LDE4MD
+k4OTQ0OTAsMTQxNTA0NjM5OCwtMTM1MjU2NTYwNCwyMTQ1MzY3
+MDE0LC05MTQ3MDEwMjEsLTM5NzI1NjddfQ==
 -->
