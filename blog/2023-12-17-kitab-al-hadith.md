@@ -6,7 +6,8 @@ authors:
   title: طالب علم
   url: https://github.com/abdullhakim-sami
   image_url: https://github.com/abdullhakim-sami.png
-  name:عمار بخاري
+
+  name: عمار 
   title: طالب علم
   url: https://github.com/AmmarIsmail123
   image_url: https://github.com/AmmarIsmail123.png
