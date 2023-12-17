@@ -155,10 +155,8 @@ const config = {
       },
     }),
   plugins: [
-    ['@docusaurus-lunr-search',
-      {
-        languages: ['ar']
-      }],
+    '@docusaurus-lunr-search',
+
 
     ['@docusaurus/plugin-pwa',
       {
