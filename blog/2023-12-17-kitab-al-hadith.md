@@ -4,12 +4,9 @@ title: كتاب الحديث
 authors:
   - عبدالحكيم
   - عمار
-
-  name: عمار 
-  title: طالب علم
-  url: https://github.com/AmmarIsmail123
-  image_url: https://github.com/AmmarIsmail123.png
+  
 tags: [أحاديث]
+
 ---
 
 نكتب هنا الأحاديث
@@ -1809,7 +1806,7 @@ tags: [أحاديث]
 
 /
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMzI2ODM2NDMsMTgxMjk4MTMwLC05Mz
-k0OTM5NDgsMTgwOTg5NDQ5MCwxNDE1MDQ2Mzk4LC0xMzUyNTY1
-NjA0LDIxNDUzNjcwMTQsLTkxNDcwMTAyMSwtMzk3MjU2N119
+eyJoaXN0b3J5IjpbMTA2MjcwNzI1NywxODEyOTgxMzAsLTkzOT
+Q5Mzk0OCwxODA5ODk0NDkwLDE0MTUwNDYzOTgsLTEzNTI1NjU2
+MDQsMjE0NTM2NzAxNCwtOTE0NzAxMDIxLC0zOTcyNTY3XX0=
 -->
