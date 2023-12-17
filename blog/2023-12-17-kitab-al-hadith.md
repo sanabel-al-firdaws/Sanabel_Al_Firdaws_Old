@@ -9,7 +9,8 @@ authors:
 tags: [hadiths]
 ---
 
-كتاب الحديث
+نكتب هنا الأحاديث 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkxNDcwMTAyMSwtMzk3MjU2N119
+eyJoaXN0b3J5IjpbMjE0NTM2NzAxNCwtOTE0NzAxMDIxLC0zOT
+cyNTY3XX0=
 -->
