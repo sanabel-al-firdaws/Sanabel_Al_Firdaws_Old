@@ -5,8 +5,11 @@ authors: endi
 tags: [hello, docusaurus]
 ---
 
-Blog posts support [Docusaurus Markdown features](https://docusaurus.io/docs/markdown-features), such as [MDX](https://mdxjs.com/).
-:::tipUse the power of React to create interactive blog posts.```js<button onClick={() => alert('button clicked!')}>Click me!</button>```<button onClick={() => alert('button clicked!')}>Click me!</button>:::
+<script>
+export const Highlight = ({children, color}) => (
+  <span    style={{      backgroundColor: color,      borderRadius: '2px',      color: '#fff',      padding: '0.2rem',    }}>    {children}  </span>);
+<script/>
+<Highlight color="#25c2a0">Docusaurus green</Highlight> and <Highlight color="#1877F2">Facebook blue</Highlight> 
 
 This is the summary of a very long blog post,
 
@@ -46,5 +49,5 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum 
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MDAzODk0MDldfQ==
+eyJoaXN0b3J5IjpbMTExMTY5MzI1NiwtMTYwMDM4OTQwOV19
 -->
