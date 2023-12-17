@@ -9,6 +9,7 @@ import { themes as prismThemes } from 'prism-react-renderer';
 /** @type {import('@docusaurus/types').Config} */
 const config = {
 
+
   title: 'سنابل الفردوس',
   tagline: 'منصة تهتم بجمع العلم النافع',
   favicon: 'img/favicon.ico',
@@ -81,13 +82,13 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
-
+      tableOfContents: {
+        minHeadingLevel: 2,
+        maxHeadingLevel: 6,
+      },
       // Replace with your project's social card
 
-tableOfContents: {
-      minHeadingLevel: 1,
-      maxHeadingLevel: 6,
-    },
+
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
         title: 'My Site',
