@@ -91,7 +91,7 @@ const config = {
 
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: 'My Site',
+        title: 'سنابل الفردوس',
         logo: {
           alt: 'My Site Logo',
           src: 'img/logo.svg',
