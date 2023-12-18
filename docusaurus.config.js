@@ -34,12 +34,12 @@ const config = {
   url: 'https://abdullhakim-sami.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/Sanabel_Al_Firdaws/',
+  baseUrl: '/Sanabel_Al_Firdaws_Old/',
   trailingSlash: false,
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'abdullhakim-sami', // Usually your GitHub org/user name.
-  projectName: 'Sanabel_Al_Firdaws', // Usually your repo name.
+  projectName: 'Sanabel_Al_Firdaws_Old', // Usually your repo name.
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
